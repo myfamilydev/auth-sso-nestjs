@@ -1,0 +1,1 @@
+{"version":3,"file":"make-paymen.dto.js","sourceRoot":"","sources":["../../../src/payment/dto/make-paymen.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAAyD;AAEzD,MAAa,cAAc;CAQ1B;AAPC;IAAC,IAAA,qBAAW,EAAC,EAAE,OAAO,EAAE,GAAG,EAAE,CAAC;IAC7B,IAAA,4BAAU,GAAE;;8CACW;AAExB;IAAC,IAAA,qBAAW,EAAC,EAAE,OAAO,EAAE,UAAU,EAAE,CAAC;IACpC,IAAA,4BAAU,GAAE;;mDACiB;AAPhC,wCAQC"}
